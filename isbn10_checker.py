@@ -1,6 +1,3 @@
-# ISBN-10 Checker and Correct Check Digit Generator
-# Final Version with Improved UX and Batch Testing
-
 def clean_isbn(isbn):
     return isbn.replace("-", "").replace(" ", "")
 
